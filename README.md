@@ -1,4 +1,4 @@
-#PROCESAMIENTO DEL HABLA
+# PROCESAMIENTO DEL HABLA
 
 # Desafío 0: Procesamiento del Habla
 
